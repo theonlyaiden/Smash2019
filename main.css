@@ -1,0 +1,22 @@
+
+body {
+	background-image:linear-gradient(pink, red, maroon);
+	 }
+
+#paragraphs {
+	text-align:center;		
+	/*text-shadow: 2px 2px 5px black;/*/	
+	width: 600px;
+	margin: auto;
+	border: 3px solid #d11f1f;		
+	border-style:inset;
+	margin-bottom:20px;	
+	line-height: 1.8;		
+			}
+
+#adjectives {
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 2px 2px 5px black;		
+			}
+
+
